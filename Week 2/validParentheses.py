@@ -13,8 +13,8 @@ def isValid(s: str):
             stack.append(i)
     return not stack
 
-print(isValid("()"))
-print(isValid("()[]{}"))
-print(isValid("(]"))
-print(isValid("([)]"))
-print(isValid("{[]}"))
+# print(isValid("()"))
+# print(isValid("()[]{}"))
+# print(isValid("(]"))
+# print(isValid("([)]"))
+# print(isValid("{[]}"))
