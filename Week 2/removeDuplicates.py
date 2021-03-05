@@ -14,5 +14,5 @@ class Solution:
             res += i
         return res
 
-# rd = Solution()
-# print(rd.removeDuplicates("abbaca"))
+rd = Solution()
+print(rd.removeDuplicates("abbaca"))
